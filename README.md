@@ -38,5 +38,7 @@ Table `tasks`:
 
 ## Pull Requests
 
-- Incoming PR (partner's contribution to this repo): TODO
-- Outgoing PR (my contribution to partner's repo): TODO
+Partner: [Mikita-73441](https://github.com/Mikita-73441) (student ID 73441)
+
+- Incoming PR (partner's contribution to this repo): https://github.com/Artsiom-73981/vistula-task-manager/pull/1
+- Outgoing PR (my contribution to partner's repo): https://github.com/Mikita-73441/vistula-task-manager/pull/1
